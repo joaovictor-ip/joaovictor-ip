@@ -1,16 +1,20 @@
-## Hi there 👋
+# Olá, eu sou João Victor R. Barbosa 👋 
 
-<!--
-**joaovictor-ip/joaovictor-ip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Redes de Computadores na Faculdade Impacta  
+🔧 Experiência com equipamentos Huawei, TP-Link, V-SOL  
+🧩 Iniciando na área de TI com foco em redes, suporte técnico e infraestrutura  
+☁️ Interessado também em tecnologias de Nuvem  
+📁 Veja meus projetos em destaque abaixo  
+📫 Entre em contato: [jrodriguesbarbosa35@gmail.com](mailto:jrodriguesbarbosa35@gmail.com) | [LinkedIn](https://www.linkedin.com/in/joaovictorbarbosati/)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⚙️ Áreas de interesse:
+- Redes de Computadores (Packet Tracer, VLAN, TCP/IP)
+- Infraestrutura de Redes
+- Suporte Técnico
+- Sistemas Operacionais (Windows, Linux)
+- Computação em Nuvem (iniciando)
+- Futuramente: Segurança da Informação, Automação de Redes e Desenvolvimento Web
+
+✨ Em busca de oportunidades como estagiário ou suporte técnico em TI.
